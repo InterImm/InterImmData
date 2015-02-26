@@ -33,3 +33,4 @@
 2. [Emigrating Beyond Earth](http://pan.baidu.com/s/1hq6CcZE) 
 3. [Deep Space Propulsion - A Roadmap to Interstellar Flight](http://pan.baidu.com/s/1eQF39Do)
 4. [Interplanetary Outpost](http://pan.baidu.com/s/1bnewavH)
+5. [On an Astrobiology Strategy for the Exploration of Mars](http://pan.baidu.com/s/1bnFAjLH)
