@@ -1,5 +1,8 @@
 ## 文件索引
 
+* 当前所有的论文收集在 Zotero: [https://www.zotero.org/groups/interimmlib/items](https://www.zotero.org/groups/interimmlib/items)，可以请求加入这个 Group.
+* 当前书籍和 Thesis 使用 Calibre 收集在 Dropbox: [InterImm Library](https://www.dropbox.com/sh/5cw2m9y58yq9nji/AACV5REv0ohTUcudd6myb7y4a?dl=0)
+
 
 
 ### 百度盘文件索引
